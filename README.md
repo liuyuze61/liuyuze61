@@ -30,8 +30,6 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
@@ -39,25 +37,3 @@
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=liuyuze61&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
